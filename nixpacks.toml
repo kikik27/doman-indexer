@@ -1,0 +1,7 @@
+[phases.setup]
+
+[phases.build]
+cmd = "echo 'No build needed'"
+
+[start]
+cmd = "npx ponder start"
