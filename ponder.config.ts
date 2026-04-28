@@ -14,8 +14,8 @@ export default createConfig({
     ScamReporter: {
       chain: "baseSepolia",
       abi: ScamReportAbi,
-      address: "0x65534f1A1BbCa98AD756c7CE38D7097fBA7C237a",
-      startBlock: 40726553,
+      address: "0x574F67B22B49eFd39D03F51627fA79CEB4a2449C",
+      startBlock: 40799652,
     },
   },
 });

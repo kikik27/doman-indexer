@@ -102,8 +102,15 @@ npm run dev
 |---|---|
 | Name | ScamReporter |
 | Network | Base Sepolia (Chain ID: 84532) |
-| Address | `0x65534f1A1BbCa98AD756c7CE38D7097fBA7C237a` |
+| Address | `0x574F67B22B49eFd39D03F51627fA79CEB4a2449C` |
 | Start Block | 40726553 |
+
+### Contract History
+
+| Version | Address | Status |
+|---|---|---|
+| v1 | `0x65534f1A1BbCa98AD756c7CE38D7097fBA7C237a` | Deprecated |
+| v2 (current) | `0x574F67B22B49eFd39D03F51627fA79CEB4a2449C` | Active |
 
 ## Project Structure
 
